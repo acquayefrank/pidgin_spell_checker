@@ -1,0 +1,1 @@
+# Pidgin Spell Checker :)
